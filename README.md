@@ -4,6 +4,7 @@ Nesse escolhi a versão 3.11 do pytho para evitar incompatibilidade de versões.
   No termional do VsCode instale as bibliotecas:
 pip install langchain
 pip install langchain-groq
+pip install langchain-community
 
 ## 🔐 Configuração da API Key (Groq)
 
