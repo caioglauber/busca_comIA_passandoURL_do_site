@@ -1,5 +1,5 @@
 Nesse projeto se for feito no VScode pressione ctrl+shift+ p para mudar a vesão do python. 
-Nesse escolhi a versão 3.11 do pytho para evitar incompatibilidade de versões.
+Escolhi a versão 3.11 do python para evitar incompatibilidade de versões.
 
   No termional do VsCode instale as bibliotecas:
 pip install langchain
